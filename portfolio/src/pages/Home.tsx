@@ -8,9 +8,11 @@ export default function Home() {
   return (
     <PageLayout>
       <Helmet>
-        <title>Anupa Prabhasara</title>
-        <meta name="description" content="Explore my journey as a Software Engineering undergraduate passionate about web development and software solutions. Learn about my skills, projects, and how we can collaborate to create amazing digital solutions." />
-        <link rel="canonical" href="https://www.anupa.lk/" />
+        <title>Tharushi Dananjana</title>
+        <meta name="description" content="Explore my journey as a Software Engineering undergraduate 
+        passionate about web development and software solutions. Learn about my skills, projects, and 
+        how we can collaborate to create amazing digital solutions." />
+        
       </Helmet>
       
       <div className="text-center">
