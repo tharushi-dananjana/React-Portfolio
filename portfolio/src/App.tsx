@@ -10,7 +10,7 @@ import DisableActions from './components/DisableActions';
 
 const Home = lazy(() => import('./pages/Home').then(module => ({ default: module.default })));
 const About = lazy(() => import('./pages/About').then(module => ({ default: module.default })));
-const Projects = lazy(() => import('./pages/Projects').then(module => ({ default: module.default })));
+const Projects = lazy(() => import('./pages/Project').then(module => ({ default: module.default })));
 const Experience = lazy(() => import('./pages/Experience').then(module => ({ default: module.default })));
 const Contact = lazy(() => import('./pages/Contact').then(module => ({ default: module.default })));
 
