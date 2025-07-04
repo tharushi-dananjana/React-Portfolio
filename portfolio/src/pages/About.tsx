@@ -9,8 +9,9 @@ export default function About() {
     <PageLayout>
       <Helmet>
         <title>About</title>
-        <meta name="description" content="Learn more about Anupa Prabhasara, a dedicated Software Engineering student passionate about web development and software solutions. Discover my journey, skills, and how I strive to turn ideas into functional and user-friendly digital experiences." />
-        <link rel="canonical" href="https://www.anupa.lk/about" />
+        <meta name="description" content="Learn more about Anupa Prabhasara, a dedicated Information Technology student 
+        passionate about web development and software solutions. Discover my journey, skills, and how I strive to turn 
+        ideas into functional and user-friendly digital experiences." />
       </Helmet>
 
       <AnimatedSection>
@@ -21,19 +22,23 @@ export default function About() {
         <AnimatedSection delay={0.2}>
         <div className="prose dark:prose-invert">
             <p className="cursor-default text-gray-600 dark:text-gray-400">
-              Hi, I’m Anupa Prabhasara, a Software Engineering undergraduate at SLIIT pursuing a BSc (Hons) in Information Technology, specializing in Software Engineering. I’ve completed my first year with a CGPA of 3.75.<br /><br />I’m passionate about turning ideas into functional, user-friendly digital solutions. This website showcases my journey, projects, and the knowledge I’ve gained. Let’s connect and create something amazing together!
+              Hi, I’m Tharushi Dananjana, a Information Technology undergraduate at SLIIT pursuing a BSc (Hons) in Information 
+              Technology, specializing in Information Technology. I’ve completed my first year with a 
+              CGPA of 2.97.<br /><br />I’m passionate about turning ideas into functional, user-friendly digital solutions.
+              This website showcases my journey, projects, and the knowledge I’ve gained. Let’s connect and create something amazing together!
             </p>
             <h3 className="cursor-default text-xl font-semibold text-gray-900 dark:text-white mt-6">Skills</h3>
             <ul className="cursor-default mt-4 space-y-2">
               <li className="text-gray-600 dark:text-gray-400">
-                Note: Skills marked with a strikethrough are currently being learned and have not yet been applied to projects. The rest reflect my hands-on project experience.
+                Note: Skills marked with a strikethrough are currently being learned and have not yet been applied to projects. 
+                The rest reflect my hands-on project experience.
               </li>
               <br />
               <li className="text-gray-600 dark:text-gray-400">
-                Frontend: Vanilla JS, React JS, TypeScript, <s>Sass</s>, GSAP, Tailwind CSS
+                Frontend: Vanilla JS, React JS, TypeScript, Tailwind CSS
               </li>
               <li className="text-gray-600 dark:text-gray-400">
-                Backend: <s>Node.js, Express.js, GraphQL, MongoDB</s>, MySQL, PHP
+                Backend: <s>Node.js, Express.js, MongoDB</s>, MySQL, PHP
               </li>
               <li className="text-gray-600 dark:text-gray-400">
                 Other Languages: C, C++, Java, <s>Kotlin</s>

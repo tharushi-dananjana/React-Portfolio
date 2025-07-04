@@ -32,7 +32,9 @@ export default function Experience() {
     <PageLayout>
       <Helmet>
         <title>Experience</title>
-        <meta name="description" content="Explore Anupa Prabhasara’s professional journey in web development and software engineering. Highlighting my skills in frontend and backend technologies, cloud platforms, and real-world projects that solve real-world challenges." />
+        <meta name="description" content="Explore Tharushi Dananjana’s professional journey in web development and 
+        software engineering. Highlighting my skills in frontend and backend technologies, cloud platforms, and real-world 
+        projects that solve real-world challenges." />
         <link rel="canonical" href="https://www.anupa.lk/experience" />
       </Helmet>
 

@@ -27,35 +27,40 @@ export default function Home() {
           </div>
           
           <h1 className="cursor-default mt-6 text-5xl font-bold gradient-text">
-            Anupa Prabhasara
+            Tharushi Dananjana
           </h1>
           <p className="cursor-default mt-2 text-xl text-gray-600 dark:text-gray-400">
-            Software Engineering Undergraduate
+            Information Technology Undergraduate
           </p>
           <p className="cursor-default mt-4 max-w-2xl mx-auto text-gray-500 dark:text-gray-400">
-            Hi! I’m Anupa Prabhasara, a Software Engineering Undergraduate passionate about web development and software engineering. This site showcases my projects and ideas, blending technical skills with creative design to create user-friendly experiences.<br /><br />Join me as I explore how technology solves problems and improves lives. Let’s build something great together!
+            Hi! I’m Tharushi Dananjana, a Information Technology Undergraduate passionate about web development. 
+            This site showcases my projects and ideas, blending technical skills with 
+            creative design to create user-friendly experiences.<br /><br />Join me as I explore how technology 
+            solves problems and improves lives. Let’s build something great together!
           </p>
           
           <div className="mt-8 flex justify-center space-x-6">
             <a
-              href="https://github.com/anupaprabhasara"
+              href="https://github.com/tharushi-dananjana"
               target="_blank"
               rel="noopener noreferrer"
-              className="p-3 rounded-full bg-gray-200 backdrop-blur-sm hover:bg-gray-300 text-gray-500 hover:text-gray-900 dark:bg-white/10 dark:hover:bg-white/20 dark:text-gray-400 dark:hover:text-white"
+              className="p-3 rounded-full bg-gray-200 backdrop-blur-sm hover:bg-gray-300 text-gray-500 hover:text-gray-900 
+              dark:bg-white/10 dark:hover:bg-white/20 dark:text-gray-400 dark:hover:text-white"
             >
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://www.linkedin.com/in/anupaprabhasara"
+              href="https://www.linkedin.com/in/tharushi-dananjana"
               target="_blank"
               rel="noopener noreferrer"
-              className="p-3 rounded-full bg-gray-200 backdrop-blur-sm hover:bg-gray-300 text-gray-500 hover:text-gray-900 dark:bg-white/10 dark:hover:bg-white/20 dark:text-gray-400 dark:hover:text-white"
+              className="p-3 rounded-full bg-gray-200 backdrop-blur-sm hover:bg-gray-300 text-gray-500 hover:text-gray-900 
+              dark:bg-white/10 dark:hover:bg-white/20 dark:text-gray-400 dark:hover:text-white"
             >
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="mailto:info@anupa.lk"
-              className="p-3 rounded-full bg-gray-200 backdrop-blur-sm hover:bg-gray-300 text-gray-500 hover:text-gray-900 dark:bg-white/10 dark:hover:bg-white/20 dark:text-gray-400 dark:hover:text-white"
+              className="p-3 rounded-full bg-gray-200 backdrop-blur-sm hover:bg-gray-300 text-gray-500 hover:text-gray-900 
+              dark:bg-white/10 dark:hover:bg-white/20 dark:text-gray-400 dark:hover:text-white"
             >
               <Mail className="w-6 h-6" />
             </a>

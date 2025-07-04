@@ -9,7 +9,8 @@ export default function Contact() {
     <PageLayout>
       <Helmet>
         <title>Contact</title>
-        <meta name="description" content="Get in touch with Anupa Prabhasara for collaboration and projects! Whether you're looking for web development expertise or software solutions, I'm here to create impactful digital experiences together." />
+        <meta name="description" content="Get in touch with Tharushi Dananjana for collaboration and projects! Whether you're 
+        looking for web development expertise or software solutions, I'm here to create impactful digital experiences together." />
         <link rel="canonical" href="https://www.anupa.lk/contact" />
       </Helmet>
 
@@ -32,7 +33,8 @@ export default function Contact() {
                 <div className="p-3 rounded-full bg-blue-500/10 group-hover:bg-blue-500/20 transition-colors">
                   <Mail className="w-6 h-6 text-blue-600 dark:text-blue-400" />
                 </div>
-                <span className="ml-4 text-gray-600 dark:text-gray-400 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                <span className="ml-4 text-gray-600 dark:text-gray-400 group-hover:text-blue-600 dark:group-hover:text-blue-400 
+                transition-colors">
                   info@anupa.lk
                 </span>
               </a>
@@ -43,8 +45,9 @@ export default function Contact() {
                 <div className="p-3 rounded-full bg-blue-500/10 group-hover:bg-blue-500/20 transition-colors">
                   <Phone className="w-6 h-6 text-blue-600 dark:text-blue-400" />
                 </div>
-                <span className="ml-4 text-gray-600 dark:text-gray-400 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-                  +94 (71) 200 3344
+                <span className="ml-4 text-gray-600 dark:text-gray-400 group-hover:text-blue-600 dark:group-hover:text-blue-400 
+                transition-colors">
+                  +94 (70) 582 3421
                 </span>
               </a>
               <a 
@@ -54,8 +57,9 @@ export default function Contact() {
                 <div className="p-3 rounded-full bg-blue-500/10 group-hover:bg-blue-500/20 transition-colors">
                   <MapPin className="w-6 h-6 text-blue-600 dark:text-blue-400" />
                 </div>
-                <span className="ml-4 text-gray-600 dark:text-gray-400 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-                  Colombo, Sri Lanka
+                <span className="ml-4 text-gray-600 dark:text-gray-400 group-hover:text-blue-600 dark:group-hover:text-blue-400 
+                transition-colors">
+                  Tangalle, Sri Lanka
                 </span>
               </a>
             </div>
