@@ -45,7 +45,7 @@ export function Navigation({ theme, setTheme }: NavigationProps) {
             to="/" 
             className="text-1xl md:text-3xl font-bold gradient-text hover:opacity-80"
           >
-            Anupa
+            Tharushi
           </Link>
 
           {/* Desktop Navigation */}

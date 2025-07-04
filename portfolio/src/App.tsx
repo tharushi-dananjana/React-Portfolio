@@ -27,9 +27,9 @@ function AppRoutes() {
               {
                 "@context": "https://schema.org",
                 "@type": "Person",
-                "name": "Anupa Prabhasara",
+                "name": "Tharushi Dananjana",
                 "description": "A Software Engineering undergraduate with a passion for web development and software engineering",
-                "url": "https://www.anupa.lk",
+                "url": "https://www.tharu.lk",
                 "image": "https://www.anupa.lk/assets/hero-BxTA0USW.jpg",
                 "sameAs": [
                   "https://www.linkedin.com/in/anupaprabhasara",

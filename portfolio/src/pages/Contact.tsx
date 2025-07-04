@@ -35,7 +35,7 @@ export default function Contact() {
                 </div>
                 <span className="ml-4 text-gray-600 dark:text-gray-400 group-hover:text-blue-600 dark:group-hover:text-blue-400 
                 transition-colors">
-                  info@anupa.lk
+                  tdananjana075@gmail.com
                 </span>
               </a>
               <a 
@@ -51,7 +51,7 @@ export default function Contact() {
                 </span>
               </a>
               <a 
-                href="https://www.google.com/search?q=anupa.lk"
+                //href="https://www.google.com/search?q=tharu.lk"
                 className="flex items-center group"
               >
                 <div className="p-3 rounded-full bg-blue-500/10 group-hover:bg-blue-500/20 transition-colors">

@@ -35,7 +35,7 @@ export default function Experience() {
         <meta name="description" content="Explore Tharushi Dananjana’s professional journey in web development and 
         software engineering. Highlighting my skills in frontend and backend technologies, cloud platforms, and real-world 
         projects that solve real-world challenges." />
-        <link rel="canonical" href="https://www.anupa.lk/experience" />
+        
       </Helmet>
 
       <AnimatedSection>
